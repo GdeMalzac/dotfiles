@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = guillaume.de.malzac@gmail.com
+	name = Guillaume de Malzac
